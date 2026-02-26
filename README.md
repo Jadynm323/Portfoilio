@@ -1,1 +1,1 @@
-[View the PDF]({{ "/assets/pdfs/resume.pdf" | relative_url }})
+[View the PDF]({{ "/assets/pdfs/portfolio.pdf" | relative_url }})
